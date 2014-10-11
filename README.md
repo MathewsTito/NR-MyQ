@@ -10,7 +10,7 @@ Node Red Node for MyQ. Current supported commands are
 The node can be configured with <i>a command</i> and <i>a device</i>. However these configurations
 may be overridden at runtime (if needed) by the <b>msg.command</b> and <b>msg.device</b> properties.
 
-Pre-requesites
+Prerequisites
 ------------
 
 Requires the <b>myqnode</b> and <b>es6-promise</b> node modules. Install using npm as follows
