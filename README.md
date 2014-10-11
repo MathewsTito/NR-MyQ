@@ -7,8 +7,8 @@ STATUS : To get current status of the garage door.
 OPEN: To open the garage door.
 CLOSE: To close the garage door.
 
-The node can be configured with a command and a device. However these configurations
-may be overridden at runtime (if needed) by the msg.command and msg.device properties.
+The node can be configured with <i>a command</i> and <i>a device</i>. However these configurations
+may be overridden at runtime (if needed) by the <b>msg.command</b> and <b>msg.device</b> properties.
 
 Pre-requesites
 ------------
@@ -21,4 +21,4 @@ Pre-requesites
 Installation
 -----------
 
-Clone the repository and execute install.sh after making it executable (chmod +x install.sh)
+Clone the repository and execute <i>install.sh</i> after making it executable (chmod +x install.sh)
