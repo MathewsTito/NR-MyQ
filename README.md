@@ -13,9 +13,9 @@ may be overridden at runtime (if needed) by the msg.command and msg.device prope
 Pre-requesites
 ------------
 
-myqnode (npm install myqnode)
+		myqnode (npm install myqnode)
 
-es6-promise (npm install es6-promise)
+		es6-promise (npm install es6-promise)
 
 
 Installation
