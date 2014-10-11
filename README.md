@@ -23,4 +23,5 @@ Installation
 
 Clone the repository and execute the script <i>install.sh</i> after making it executable 
 		
-		chmod +x install.sh
+		$ chmod +x install.sh
+		$ ./install.sh
